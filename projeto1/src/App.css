@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+h1 {
+  color: red;
+}
+input{
+  font-weight: bold;
+}
+select{
+  width:200px;
+}
+.text-centralizado{
+  text-align: center;
+}
